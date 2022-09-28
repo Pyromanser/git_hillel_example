@@ -1,4 +1,5 @@
 import os
 
-print("hello")
+print("Hello World!")
+print("\n")
 print(os.environ.get("EXTRA_ENV"))
