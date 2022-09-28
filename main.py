@@ -1,6 +1,6 @@
 import os
 
-print("world")
+print("hello")
 print(os.environ.get("EXTRA_ENV"))
 
-print("world!")
+print("hello!")
